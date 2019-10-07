@@ -4,7 +4,7 @@ Save our professors! — Our team's project in swamp hack 2019.
 Have you used ratemyprofessor.com? It might be a handy tool for course decision but does not seem enough to satisfy our need sometimes: inaccuracy, lack of data, etc. We, as a university student and a programmer, wanted to solve that issue and create an alternative to fully satisfy the students who really care about their university life.
 
 ## What it does
-This application quantify all the given and collected data to provide objective view toward courses for students. It also provides incentives to students who participate for data collection. Furthermore, it recommends or provides relative courses based on student's preference.
+This application quantify all the given and collected data to provide objective view toward courses for students. It also provides incentives to students who participate for data collection. Furthermore, it recommends or provides relative courses based on student's preference (this function has not been finished so far).
 
 ## How we built it
 jQuery and JavaScript were used to for front-end. Node.js, Express and React were used for back-end job. We used MongoDB to store the user data.
