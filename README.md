@@ -20,5 +20,5 @@ We believe that we've done a great job on establishing a decent business model w
 We have learned that time management and setting a specific goal are critical to complete a project successfully. 
 
 ## What's next for University Life Advisor (ULA)
-The main purpose of this application is to provide the best chance to enhance students' university life. So far, the website lacks the proper algorithm to project the user data to the measurement. Therefore, we need to work on this part to provide more accurate and reasonable measures to help students to make smarter decisions.
+The main purpose of this application is to provide the best chance to enhance students' university life. So far, the website lacks the proper algorithm to project the user data to the measurements. Therefore, we need to work on this part to provide more accurate and reasonable measurements to help students to make smarter decisions.
 
